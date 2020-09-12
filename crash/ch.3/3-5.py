@@ -11,7 +11,8 @@ invitation = f"\n{guests[4]}, you are cordially invited to a dinner party at my 
 print(invitation)
 print(f"\n{guests [4]} can't make it for dinner")
 del guests[4]
-guests.append("Ron")
+guests.append("Rod")
+print("\n")
 invitation = f"{guests[0]}, you are cordially invited to a dinner party at my home."
 print(invitation)
 invitation = f"\n{guests[1]}, you are cordially invited to a dinner party at my home."
