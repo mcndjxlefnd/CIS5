@@ -43,3 +43,5 @@ print("\nalphabetically sorted, permanently: ", generic_list)
 
 generic_list.sort(reverse=1)
 print("\nreverse alphabetically sorted in reverse: ", generic_list)
+
+print("\nlength of list after all is said and done: ", len(generic_list))
